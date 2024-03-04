@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Bendito Cebiche</title>
+  <link href="reset.css" rel="stylesheet" type="text/css" />  
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <link href="reset-webview.css" rel="stylesheet" type="text/css" />  
+  <style> 
+    h1 {background-color: orangered}
+    h2{background-color: seagreen;}
+    h3{background-color: lightcoral;}
+    h4{background-color: lightskyblue; font-style:oblique;}
+    p {
+      font-family: monospace;
+      font-size: 20px;
+    }
+  </style>
+</head>
+  
+<body>
+ <h1 class="white">Peruvian Food Pop Culture Fusion</h1> 
+  <button> Cebiche</button>
+  <button> Pollo a la brasa</button>
+  <p id="aboutWeek" class="navy"> This website is dedicated to Peruvian food and Bendito Cebiche.
+    The impact of gastronomy on the Peruvian economy transcends the field of tourism, despite being intrinsically linked to this sector. The great variety of Peruvian gastronomy is based on three sources: the particularity of Peru's geography, the mix of cultures, and the adaptation of ancient cultures to modern cuisine. We inform you about the process of preparing meals, from how to obtain the raw materials to obtain the final product, which is the presentation of the dish.          
+  </p>
+   <img src="Pics/peruvian-food1.jpg" width="500" height="300" />
+ <h1 class="white"> About my topic:</h1>
+  <h2 class="darkgray">Peruvian gastronomy is continuously expanding throughout the world</h2>
+  <h3 class="darkgray">Captivating various regions and major cities with its flavors, textures, colors, and culinary excellence</h3>  
+  <h4 class="darkgray"> The great variety of Peruvian gastronomy is based on three sources:</h4>
+  <h5 class="darkgray">The particularity of Peru's geography</h5>
+  <h6 class="darkgray">The mix of cultures, and adaptation of ancient cultures to modern cuisine</h6>
+  <img src="Pics/cebiche1jpg.jpg" width="500" height="300" />
+
+  <ul>
+     <li> Cebiche's recipe.</li>
+     <li>Lomo saltado's recipe.</li>
+     <li>Pisco Sour's recipe.</li>
+  </ul>
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/jNgKl30antc?si=HJA15eldgH24JBwK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
+  <h2> News </h2>  
+ <h3> <a href= "https://www.machutravelperu.com/blog/peru-holidays-food-people-cities/"> Visit machutravelperu.com! </h3>
+  <h3> <a href= "https://www.peru.travel/en/news/peru-shines-at-the-world-travel-awards-2023#:~:text=It's%20noteworthy%20that%20in%20the,culinary%20city%20in%20the%20region./"> Visit perutravel!</h3>
+  <h4> <a href="https://www.chefspencil.com/the-top-15-peruvian-foods-most-popular-dishes-in-peru/#:~:text=Undoubtedly%20the%20most%20popular%20dish,taste%20and%20an%20appetizing%20presentation./">  Visit 15 traditional dishes !</h4>
+  <script src="script.js"></script>
+</body>
+
+</html>
